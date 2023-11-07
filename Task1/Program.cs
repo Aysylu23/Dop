@@ -6,7 +6,7 @@ string password1 = Console.ReadLine();
 
 
 string password = "A35g!";
-string password1 = password11.Replace(" ", "");
+
 if (password1 == password)
 {
     Console.WriteLine("Добро пожаловать!");
